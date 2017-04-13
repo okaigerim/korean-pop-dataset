@@ -1,0 +1,12 @@
+{
+	"legalSurname": "String: Given last name used off stage, in language defined in legalNameLanguage",
+	"legalPersonalName": "String: Given personal name used off stage, in language defined in legalNameLanguage",
+	"legalNameLanguage": "ISO 639-1 code that their non .ko legal name is in. examples: zh, en, ja, nl. zh strings should be in Simplified",
+	"legalSurname.ko": "String: Given last name used off stage, in Korean",
+	"legalPersonalName.ko": "String: Given personal name used off stage, in Korean",
+	"stageName.kr": "String: personal name used on stage, in Korean",
+	"stageName.en": "String: personal name used on stage, in English (may be equal Korean romanization, but the romanization should be what is official, rather than the correct scholarly romanization (e.g. Hyolyn vs Hyoryn).",
+	"birthDate": "String-formatted date: yyyy-MM-dd",
+	"gender": "String: most common values are \"male\" and \"female\", but other genders would be totally cool to see in k-pop",
+	"birthCountry": "String: ISO 3166-1 Alpha-2 code. examples: CN, KR, US, JP"
+}
